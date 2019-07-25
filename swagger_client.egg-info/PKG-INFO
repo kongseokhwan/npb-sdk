@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: swagger-client
+Version: 1.0.0
+Summary: PRISM NBAPI
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: contact@kulcloud.net
+License: UNKNOWN
+Description:     This is a PRISM NBAPI API Client module.  # noqa: E501
+            
+Keywords: Swagger,PRISM NBAPI
+Platform: UNKNOWN
